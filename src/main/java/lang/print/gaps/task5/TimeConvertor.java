@@ -14,6 +14,5 @@ public class TimeConvertor {
         TimeConvertor main = new TimeConvertor();
    main.convert(55);
 
-  
     }
 }
