@@ -7,9 +7,10 @@ public class NumberDivider {
         System.out.println(dev);
     }
     
-    public static void main(String[] args ) {
+    public static void main(String[] args) {
+
         NumberDivider main = new NumberDivider();
-        main divide(550);
+        main.divide(550);
         
     }
 }
