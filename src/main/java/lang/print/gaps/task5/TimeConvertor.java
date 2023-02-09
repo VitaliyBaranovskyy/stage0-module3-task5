@@ -11,11 +11,9 @@ public class TimeConvertor {
 
 
     public static void main(String[] args) {
-        minets main = new minets();
+        TimeConvertor main = new TimeConvertor();
    main.convert(55);
 
-
-
-    
+  
     }
 }
